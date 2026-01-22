@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![HariMT Logo](https://via.placeholder.com/150?text=HariMT)
+![HariMT Logo](logo.png)
 
 **High-Performance Asynchronous Entity Ticking for Minecraft**
 
@@ -17,9 +17,9 @@
 
 ## 🚀 Overview
 
-**HariMT** is a highly optimized fork of the [Async](https://github.com/Bliss-tbh/Async-1.20.1) mod, designed to significantly improve server performance by offloading entity ticking to parallel threads.
+**HariMT** is a highly optimized fork based on [Bliss-tbh's Async](https://github.com/Bliss-tbh/Async-1.20.1), which brought the original [Async](https://github.com/Axalotl/Async) mod by Axalotl to Forge 1.20.1.
 
-This project is based on the **Forge base** of the original Async mod by [Bliss-tbh](https://github.com/Bliss-tbh/Async-1.20.1) and Axalotl, ensuring robust compatibility and stability while introducing further optimizations for modern modpacks.
+This project builds upon that solid foundation to provide further optimizations and stability fixes for modern modpacks.
 
 ## ✨ Key Features
 
@@ -51,11 +51,17 @@ enableAsyncSpawn = true
 
 **HariMT** is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
-*   **Original Author**: [Axalotl](https://github.com/Axalotl) & [Bliss-tbh](https://github.com/Bliss-tbh)
+*   **Original Author**: [Axalotl](https://github.com/Axalotl) (Creator of Async)
+*   **Forge 1.20.1 Port**: [Bliss-tbh](https://github.com/Bliss-tbh)
 *   **Original Repository**: [Async-1.20.1](https://github.com/Bliss-tbh/Async-1.20.1)
 *   **Maintainer**: HariMT
 
-We encourage users to check out the original project and support the original creators.
+## ⚠️ Disclaimer
+
+This is a fork intended for optimization and compatibility. Use at your own risk.
+
+**Notice to Original Authors:**
+If you are the original author (Axalotl/Bliss-tbh) and do not wish for this fork to exist or be published, please **contact me via Discord** (`justhari`) to request removal. This project will be taken down immediately upon verification of the request.
 
 ---
 <div align="center">
