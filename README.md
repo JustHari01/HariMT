@@ -17,7 +17,7 @@
 
 ## 🚀 Overview
 
-**HariMT** is a highly optimized fork based on [Bliss-tbh's Async](https://github.com/Bliss-tbh/Async-1.20.1), which brought the original [Async](https://github.com/Axalotl/Async) mod by Axalotl to Forge 1.20.1.
+**HariMT** is a highly optimized fork based on [Bliss-tbh's Async](https://github.com/Bliss-tbh/Async-1.20.1), which brought the original [Async](https://github.com/AxalotLDev/Async) mod by Axalotl to Forge 1.20.1.
 
 This project builds upon that solid foundation to provide further optimizations and stability fixes for modern modpacks.
 
