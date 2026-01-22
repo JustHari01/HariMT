@@ -1,0 +1,16 @@
+JVM:         C:\Users\ndinh\.gradle\jdks\eclipse_adoptium-17-amd64-windows.2\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "MERGE_MAPPING", "--left", "config/joined.tsrg", "--right", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\downloadClientMappings\client_mappings.txt", "--right-names", "right,left", "--classes", "--output", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\mergeMappings\output.jar"
+Classpath:   C:\Users\ndinh\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.0\installertools-1.2.0-fatjar.jar
+Working Dir: C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\mergeMappings
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         null
+Right:   C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\downloadClientMappings\client_mappings.txt
+         right,left
+Classes: true
+Fields:  false
+Methods: false
+Params:  false
+Output:  C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\mergeMappings\output.jar

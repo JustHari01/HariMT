@@ -1,0 +1,6 @@
+JVM:         C:\Users\ndinh\.gradle\jdks\eclipse_adoptium-17-amd64-windows.2\bin\java.exe
+JVM Args:    
+Run Args:    "--inJar", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\rename\output.jar", "--outJar", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\AccessTransformer\output.jar", "--atFile", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\ndinh\AppData\Local\Temp\FG_ats_17473661624264549658.cfg"
+Classpath:   C:\Users\ndinh\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.1\accesstransformers-8.2.1-fatjar.jar
+Working Dir: C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

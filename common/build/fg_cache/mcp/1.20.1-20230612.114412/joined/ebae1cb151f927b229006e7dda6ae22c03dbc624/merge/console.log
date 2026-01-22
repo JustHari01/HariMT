@@ -1,0 +1,6 @@
+JVM:         C:\Users\ndinh\.gradle\jdks\eclipse_adoptium-17-amd64-windows.2\bin\java.exe
+JVM Args:    
+Run Args:    "--client", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\stripClient\output.jar", "--server", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\stripServer\output.jar", "--ann", "1.20.1", "--output", "C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\merge\output.jar", "--inject", "false"
+Classpath:   C:\Users\ndinh\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.7\mergetool-1.1.7-fatjar.jar
+Working Dir: C:\Users\ndinh\Desktop\Async-1.20.1-ver-1.20.1\common\build\fg_cache\mcp\1.20.1-20230612.114412\joined\ebae1cb151f927b229006e7dda6ae22c03dbc624\merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
